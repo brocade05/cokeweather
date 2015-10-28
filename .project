@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>cokeweather</name>
+=======
+	<name>CokeWeather</name>
+>>>>>>> 622701c0678f01bc39e4cb9c27917932a13942c4
 	<comment></comment>
 	<projects>
 	</projects>
